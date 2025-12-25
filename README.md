@@ -10,7 +10,7 @@
 
 *Accepted by Pattern Recognition 2025*
 
-[![Paper](https://img.shields.io/badge/Paper-Pattern%20Recognition-blue)](https://doi.org/10.1016/j.patcog.2025.112883)
+[![Paper](https://img.shields.io/badge/Paper-Pattern%20Recognition-blue)](https://doi.org/10.1016/j.patcog.2025.112883) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
 
 
 ---
@@ -68,6 +68,7 @@ If you find this work useful, please cite it as:
     publisher = {Elsevier}
 }
 ```
+
 
 
 
