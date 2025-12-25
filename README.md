@@ -7,6 +7,7 @@
 </div>
 
 **Official PyTorch implementation of MS2Edge**
+*Accepted by Pattern Recognition 2025*
 
 [![Paper](https://img.shields.io/badge/Paper-Pattern%20Recognition-blue)](https://doi.org/10.1016/j.patcog.2025.112883)
 
@@ -66,4 +67,5 @@ If you find this work useful, please cite it as:
     publisher = {Elsevier}
 }
 ```
+
 
