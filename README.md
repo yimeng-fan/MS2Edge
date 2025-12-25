@@ -4,12 +4,12 @@
 
 
 ![MS2Edge](./MS2Edge.png)
+</div>
 
 **Official PyTorch implementation of MS2Edge**
 
 [![Paper](https://img.shields.io/badge/Paper-Pattern%20Recognition-blue)](https://doi.org/10.1016/j.patcog.2025.112883)
 
-</div>
 
 ---
 
@@ -66,3 +66,4 @@ If you find this work useful, please cite it as:
     publisher = {Elsevier}
 }
 ```
+
