@@ -1,14 +1,19 @@
 # 🚀 MS2Edge: Towards Energy-Efficient and Crisp Edge Detection with Multi-Scale Residual Learning in SNNs
 
+<div align="center">
+
+
 ![MS2Edge](./MS2Edge.png)
 
-<div align="center">
 **Official PyTorch implementation of MS2Edge**
 
 [![Paper](https://img.shields.io/badge/Paper-Pattern%20Recognition-blue)](https://doi.org/10.1016/j.patcog.2025.112883)
 
-## 📋 Requirements
+</div>
 
+---
+
+## 📋 Requirements
 
 | Repository   | Version |
 | ------------ | ------- |
@@ -20,7 +25,7 @@
 | Opencv       | 4.6.0   |
 | SpikingJelly | 0.0.14  |
 
-------
+---
 
 ## 📦 Required Data
 
@@ -33,7 +38,7 @@ To evaluate or train MS2Edge you will need to download the datasets:
 | BIPED Dataset         | [Download BIPED Dataset](https://xavysp.github.io/MBIPED/)   |
 | PLDU and PLDM Dataset | [Download PLDU and PLDM Dataset](https://github.com/SnorkerHeng/PLD-UAV) |
 
-------
+---
 
 ## 🔧 Training and Evaluation
 
@@ -44,7 +49,7 @@ The training and evaluation pipeline can refer to:
 
 Specific parameters have been described in the paper.
 
-------
+---
 
 ## 📝 Citation
 
